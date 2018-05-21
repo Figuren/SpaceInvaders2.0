@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Yuri Gagarin/Downloads/SpaceInvader2.0-20180108T172503Z-001/SpaceInvader2.0/SpaceInvader2.0/Content/Text.spritefont</File>
+    <File>C:/Users/Yuri Gagarin/Downloads/SpaceInvader2.0-20180108T172503Z-001/SpaceInvader2.0/SpaceInvader2.0/Content/Tank.png</File>
+  </SourceFiles>
+</SourceFileCollection>

@@ -1,0 +1,42 @@
+C:\Users\Yuri Gagarin\Downloads\SpaceInvader2.0-20180108T172503Z-001\SpaceInvader2.0\SpaceInvader2.0\bin\Debug\x64\libopenal.so.1
+C:\Users\Yuri Gagarin\Downloads\SpaceInvader2.0-20180108T172503Z-001\SpaceInvader2.0\SpaceInvader2.0\bin\Debug\x64\soft_oal.dll
+C:\Users\Yuri Gagarin\Downloads\SpaceInvader2.0-20180108T172503Z-001\SpaceInvader2.0\SpaceInvader2.0\bin\Debug\x64\libSDL2-2.0.so.0
+C:\Users\Yuri Gagarin\Downloads\SpaceInvader2.0-20180108T172503Z-001\SpaceInvader2.0\SpaceInvader2.0\bin\Debug\x64\SDL2.dll
+C:\Users\Yuri Gagarin\Downloads\SpaceInvader2.0-20180108T172503Z-001\SpaceInvader2.0\SpaceInvader2.0\bin\Debug\x86\libopenal.so.1
+C:\Users\Yuri Gagarin\Downloads\SpaceInvader2.0-20180108T172503Z-001\SpaceInvader2.0\SpaceInvader2.0\bin\Debug\x86\soft_oal.dll
+C:\Users\Yuri Gagarin\Downloads\SpaceInvader2.0-20180108T172503Z-001\SpaceInvader2.0\SpaceInvader2.0\bin\Debug\x86\libSDL2-2.0.so.0
+C:\Users\Yuri Gagarin\Downloads\SpaceInvader2.0-20180108T172503Z-001\SpaceInvader2.0\SpaceInvader2.0\bin\Debug\x86\SDL2.dll
+C:\Users\Yuri Gagarin\Downloads\SpaceInvader2.0-20180108T172503Z-001\SpaceInvader2.0\SpaceInvader2.0\bin\Debug\libopenal.1.dylib
+C:\Users\Yuri Gagarin\Downloads\SpaceInvader2.0-20180108T172503Z-001\SpaceInvader2.0\SpaceInvader2.0\bin\Debug\libSDL2-2.0.0.dylib
+C:\Users\Yuri Gagarin\Downloads\SpaceInvader2.0-20180108T172503Z-001\SpaceInvader2.0\SpaceInvader2.0\bin\Debug\MonoGame.Framework.dll.config
+C:\Users\Yuri Gagarin\Downloads\SpaceInvader2.0-20180108T172503Z-001\SpaceInvader2.0\SpaceInvader2.0\bin\Debug\SpaceInvader2.0.exe
+C:\Users\Yuri Gagarin\Downloads\SpaceInvader2.0-20180108T172503Z-001\SpaceInvader2.0\SpaceInvader2.0\bin\Debug\SpaceInvader2.0.pdb
+C:\Users\Yuri Gagarin\Downloads\SpaceInvader2.0-20180108T172503Z-001\SpaceInvader2.0\SpaceInvader2.0\bin\Debug\MonoGame.Framework.dll
+C:\Users\Yuri Gagarin\Downloads\SpaceInvader2.0-20180108T172503Z-001\SpaceInvader2.0\SpaceInvader2.0\obj\x86\Debug\SpaceInvader2.0.csproj.CoreCompileInputs.cache
+C:\Users\Yuri Gagarin\Downloads\SpaceInvader2.0-20180108T172503Z-001\SpaceInvader2.0\SpaceInvader2.0\obj\x86\Debug\SpaceInvader2.0.exe
+C:\Users\Yuri Gagarin\Downloads\SpaceInvader2.0-20180108T172503Z-001\SpaceInvader2.0\SpaceInvader2.0\obj\x86\Debug\SpaceInvader2.0.pdb
+C:\Users\Yuri Gagarin\Downloads\SpaceInvader2.0-20180108T172503Z-001\SpaceInvader2.0\SpaceInvader2.0\bin\Debug\Content\Text.xnb
+C:\Users\Yuri Gagarin\Downloads\SpaceInvader2.0-20180108T172503Z-001\SpaceInvader2.0\SpaceInvader2.0\bin\Debug\Content\Tank.xnb
+C:\Users\linus.harrstrom\Favorites\Downloads\SpaceInvader2.0\SpaceInvader2.0\SpaceInvader2.0\obj\x86\Debug\SpaceInvader2.0.exe
+C:\Users\linus.harrstrom\Favorites\Downloads\SpaceInvader2.0\SpaceInvader2.0\SpaceInvader2.0\obj\x86\Debug\SpaceInvader2.0.pdb
+C:\Users\linus.harrstrom\Favorites\Downloads\SpaceInvader2.0\SpaceInvader2.0\SpaceInvader2.0\bin\Debug\x64\libopenal.so.1
+C:\Users\linus.harrstrom\Favorites\Downloads\SpaceInvader2.0\SpaceInvader2.0\SpaceInvader2.0\bin\Debug\x64\soft_oal.dll
+C:\Users\linus.harrstrom\Favorites\Downloads\SpaceInvader2.0\SpaceInvader2.0\SpaceInvader2.0\bin\Debug\x64\libSDL2-2.0.so.0
+C:\Users\linus.harrstrom\Favorites\Downloads\SpaceInvader2.0\SpaceInvader2.0\SpaceInvader2.0\bin\Debug\x64\SDL2.dll
+C:\Users\linus.harrstrom\Favorites\Downloads\SpaceInvader2.0\SpaceInvader2.0\SpaceInvader2.0\bin\Debug\x86\libopenal.so.1
+C:\Users\linus.harrstrom\Favorites\Downloads\SpaceInvader2.0\SpaceInvader2.0\SpaceInvader2.0\bin\Debug\x86\soft_oal.dll
+C:\Users\linus.harrstrom\Favorites\Downloads\SpaceInvader2.0\SpaceInvader2.0\SpaceInvader2.0\bin\Debug\x86\libSDL2-2.0.so.0
+C:\Users\linus.harrstrom\Favorites\Downloads\SpaceInvader2.0\SpaceInvader2.0\SpaceInvader2.0\bin\Debug\x86\SDL2.dll
+C:\Users\linus.harrstrom\Favorites\Downloads\SpaceInvader2.0\SpaceInvader2.0\SpaceInvader2.0\bin\Debug\MonoGame.Framework.dll.config
+C:\Users\linus.harrstrom\Favorites\Downloads\SpaceInvader2.0\SpaceInvader2.0\SpaceInvader2.0\bin\Debug\libopenal.1.dylib
+C:\Users\linus.harrstrom\Favorites\Downloads\SpaceInvader2.0\SpaceInvader2.0\SpaceInvader2.0\bin\Debug\libSDL2-2.0.0.dylib
+C:\Users\linus.harrstrom\Favorites\Downloads\SpaceInvader2.0\SpaceInvader2.0\SpaceInvader2.0\bin\Debug\Content\Tank.xnb
+C:\Users\linus.harrstrom\Favorites\Downloads\SpaceInvader2.0\SpaceInvader2.0\SpaceInvader2.0\bin\Debug\Content\Text.xnb
+C:\Users\linus.harrstrom\Favorites\Downloads\SpaceInvader2.0\SpaceInvader2.0\SpaceInvader2.0\bin\Debug\SpaceInvader2.0.exe
+C:\Users\linus.harrstrom\Favorites\Downloads\SpaceInvader2.0\SpaceInvader2.0\SpaceInvader2.0\bin\Debug\SpaceInvader2.0.pdb
+C:\Users\linus.harrstrom\Favorites\Downloads\SpaceInvader2.0\SpaceInvader2.0\SpaceInvader2.0\bin\Debug\MonoGame.Framework.dll
+C:\Users\linus.harrstrom\Favorites\Downloads\SpaceInvader2.0\SpaceInvader2.0\SpaceInvader2.0\obj\x86\Debug\SpaceInvader2.0.csprojResolveAssemblyReference.cache
+C:\Users\linus.harrstrom\Favorites\Downloads\SpaceInvader2.0\SpaceInvader2.0\SpaceInvader2.0\bin\Debug\Content\Shell.xnb
+C:\Users\linus.harrstrom\Favorites\Downloads\SpaceInvader2.0\SpaceInvader2.0\SpaceInvader2.0\bin\Debug\Content\Player.xnb
+C:\Users\linus.harrstrom\Favorites\Downloads\temp folder si2\SpaceInvader2.0\SpaceInvader2.0\obj\x86\Debug\SpaceInvader2.0.exe
+C:\Users\linus.harrstrom\Favorites\Downloads\temp folder si2\SpaceInvader2.0\SpaceInvader2.0\obj\x86\Debug\SpaceInvader2.0.pdb

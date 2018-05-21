@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{AD72F6C6-C89B-4BCA-A42E-79DB810F0EA2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SpaceInvader2.0/Game1.cs">
+    <Files>
+      <File FileName="SpaceInvader2.0/Game1.cs" Line="19" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SpaceInvader2.0 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

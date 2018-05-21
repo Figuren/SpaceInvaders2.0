@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/linus.harrstrom/Favorites/Downloads/SpaceInvader2.0/SpaceInvader2.0/SpaceInvader2.0/Content/Text.spritefont</SourceFile>
+  <SourceTime>2018-01-09T09:54:02.5122121+01:00</SourceTime>
+  <DestFile>C:/Users/linus.harrstrom/Favorites/Downloads/SpaceInvader2.0/SpaceInvader2.0/SpaceInvader2.0/Content/bin/Windows/Text.xnb</DestFile>
+  <DestTime>2018-01-11T12:11:41.2121702+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T16:05:36+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
